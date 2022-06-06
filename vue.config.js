@@ -32,7 +32,7 @@ module.exports = {
   devServer: {
     open: true, //配置自动启动浏览器
     host: "127.0.0.1",
-    port: 2364, // 当前vue项目 端口号
+    port: 8082, // 当前vue项目 端口号
     https: false,
     hotOnly: false, // https:{type:Boolean}
     // proxy: null, // 设置代理
